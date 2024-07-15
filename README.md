@@ -1,1 +1,1 @@
-Study project — Typescript, React
+Study project — React
